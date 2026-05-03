@@ -32,25 +32,7 @@
   <img src="https://skillicons.dev/icons?i=python,cpp,java,mysql,git,github,html,css" />
 </p>
 
----
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Janviagrawal4127&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Janviagrawal4127&theme=radical" />
-</p>
-
----
-
-## 📈 Most Used Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janviagrawal4127&layout=compact&theme=radical" />
-</p>
-
----
 
 ## 🌐 Connect With Me
 <p align="center">
